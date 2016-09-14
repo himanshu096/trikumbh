@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">TRIKUMBH</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_c_dareevent">C Dar Event</string>
+    <string name="title_activity_codo_maniaevent">Codo Maniaevent</string>
+    <string name="title_activity_techsurgeevent">Techsurgeevent</string>
+    <string name="dare">
+
+This is a basic C language quiz. It includes 60 questions with difficulty level easy, medium, hard and hardest. Time limit for this event will be 60 minutes. You will be awarded 4 marks for every correct option you choose and 1 marks would be deducted simultaneously for every incorrect option you choose. Winner and runnerups will be chosen according to the marks obtained. The difficulty level of questions is moderate, neither very easy nor too hard.\n\n
+
+<b>Event Details:</b>\n
+Event duration- 60 minutes.\n
+Number of multiple choice Questions-60\n
+Platform-C\n
+Quiz will be conducted online\n
+Each right answer will be awarded 4 marks while for each wrong answer, 1 marks will be deducted.\n
+Date: Saturday Sept 24, 2016\n
+Time: 12:30 PM\n\n
+
+<b>Registartion:</b>\n
+CSI Member-\n
+Fee: Rs.30 /-Participant\n
+Non CSI Member\n
+Fee: Rs.50/-Participant\n
+</string>
+    <string name="codo">
+        There would be 10 questions with a time limit of 2 hrs. This is a team event.\n 2 members will be there in each team. We had included 3 languages, C, C++ and Java. For C/C++ we will provide you code blocks or turbo C/C++ as per your need. Terminal would be provided for java. This event is platform independent. You can use either of the languages to solve the questions.\n\n
+
+<b>Event Details:</b>\n
+Number of members in a team less than equal to 2.\n
+Event duration- 2 hours.\n
+Platform – C, C++ ( Code Blocks), JAVA (Terminal)\n
+Number of Questions - 10\n
+Will be conducted on dedicated systems.\n
+Criteria for judgment will be based on the coding time and time complexity of each program.\n
+Date: Saturday Sept.\n 24, 2016\n
+Time: 10:30AM\n\n
+
+<b>Registartion:</b>\n
+CSI Member-\n
+Fee: Rs.30 /-Participant\n
+Non CSI Member\n
+Fee: Rs.50/-Participant\n
+</string>
+    <string name="tech">
+        This event is a technical paper presentation. You have to choose a technical topic and prepare a presentation on that. You will be judged on the basis of your knowledge, presentation and the matter you include. You can even include any research paper invariant of the author and can add up your performance by showing up with better knowledge.\n\n
+
+Students must be the regular students of the college.\n
+Maximum 3 authors per paper are accepted.\n
+Full length paper of approx 1500 words should be sent by email or typed.\n
+The paper to be typed in single space, Single column format, using Times New Roman font and size 12. Maximum number of pages should be 10. A margin of 1” all around to the left.\n
+A soft copy of the final paper is to be sent before the designated last date. A hard copy of the paper in accordance with laid down format shall have to be handed over to the Technical committee prior to the actual presentation.\n
+First page to include Title, Name (s) of authors, telephone numbers as well as e-mail addresses.\n
+Based on the paper matter, an experts committee will select the papers for inclusion in the final presentation.\n
+For presentation, a time slot of 08 minutes + 2 minutes (for Q and A) will be given to each team.\n Team should prepare a ppt for such presentation.\n
+Presentation should highlight the objectives, methodology and its usefulness and references.\n
+Certificates will be given to all participants (those who submit Abstract) from CSI Student Branch ABESEC.\n
+Best Research Work and Best Presentation would be awarded accordingly.\n
+Participants should send their soft copy of the paper to trikumbh@abes.ac.in with the subject, ABESEC Paper presentation Contest and participants from ABES Engineering College are required to submit hard copy to any member of the Technical Committee.\n\n
+Date: Friday	Sept 23, 2016\n
+Time: 10:00 AM\n\n
+
+<b>Registartion:</b>\n
+CSI Member-\n
+Fee: Rs.30 /-Participant\n
+Non CSI Member\n
+Fee: Rs.50/-Participant\n
+</string>
+    <string name="title_activity_developers">Developers</string>
+    <string name="title_activity_main_activitygalery">MainActivitygalery</string>
+    <string name="info">TriKumbh 16 is set to encompass a wider array of exciting innovative events and reach new heights of technological revelation!
+Trikumbh 16 is a continuation in the series of annual event Trikumbh organised by ABES Engineering College, CSI Branch, Ghaziabad. And this year too it is similar to previous pattern but covers more number of colleges and bigger participation. Guys this is an awesome chance where you can enrich your talent and show the world the skills you have got. <b>COME TRY AND ACHIEVE.</b></string>
+    <string name="title_activity_facebook">Facebook</string>
+    <string name="title_activity_youtube">Youtube</string>
+    <string name="title_activity_launcher">Launcher</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

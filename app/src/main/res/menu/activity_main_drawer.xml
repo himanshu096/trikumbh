@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Registrations" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Gallery" />
+    </group>
+<group>
+        <item android:title="Events">
+            <menu>
+        <item
+            android:id="@+id/nav_slideshow2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Tech surge" />
+        <item
+            android:id="@+id/nav_manage54"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="C-Dare" />
+            <item
+            android:id="@+id/nav_manage545"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Codomania" />
+            </menu>
+            </item>
+
+
+</group>
+
+
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Our Team" />
+            <item
+                android:id="@+id/nav_send2"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Developers" />
+            <item
+                android:id="@+id/nav_send3"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact us" />
+
+        </menu>
+    </item>
+
+</menu>
